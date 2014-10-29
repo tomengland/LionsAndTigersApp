@@ -22,6 +22,7 @@
 		516603E719FDE1980057057B /* Lioness.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 516603DF19FDE1980057057B /* Lioness.jpeg */; };
 		516603E819FDE1980057057B /* MalayanTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 516603E019FDE1980057057B /* MalayanTiger.jpg */; };
 		516603E919FDE1980057057B /* SiberianTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 516603E119FDE1980057057B /* SiberianTiger.jpg */; };
+		517911431A00AEF3006253EB /* LionClub.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517911421A00AEF3006253EB /* LionClub.swift */; };
 		51F5E91219FF720600EC4174 /* Lion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51F5E91119FF720600EC4174 /* Lion.swift */; };
 /* End PBXBuildFile section */
 
@@ -55,6 +56,7 @@
 		516603DF19FDE1980057057B /* Lioness.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lioness.jpeg; sourceTree = "<group>"; };
 		516603E019FDE1980057057B /* MalayanTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MalayanTiger.jpg; sourceTree = "<group>"; };
 		516603E119FDE1980057057B /* SiberianTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SiberianTiger.jpg; sourceTree = "<group>"; };
+		517911421A00AEF3006253EB /* LionClub.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LionClub.swift; sourceTree = "<group>"; };
 		51F5E91119FF720600EC4174 /* Lion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -99,6 +101,7 @@
 			children = (
 				516603B719FDC0FC0057057B /* AppDelegate.swift */,
 				516603B919FDC0FC0057057B /* ViewController.swift */,
+				517911421A00AEF3006253EB /* LionClub.swift */,
 				516603D719FDC3310057057B /* Tiger.swift */,
 				51F5E91119FF720600EC4174 /* Lion.swift */,
 				516603BB19FDC0FC0057057B /* Main.storyboard */,
@@ -260,6 +263,7 @@
 			files = (
 				516603BA19FDC0FC0057057B /* ViewController.swift in Sources */,
 				516603D819FDC3310057057B /* Tiger.swift in Sources */,
+				517911431A00AEF3006253EB /* LionClub.swift in Sources */,
 				516603B819FDC0FC0057057B /* AppDelegate.swift in Sources */,
 				51F5E91219FF720600EC4174 /* Lion.swift in Sources */,
 			);
